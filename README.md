@@ -3,7 +3,8 @@ Etudiant - Cours de dévops
 
 ## Qui qui es qui ?
 
-|          |                |
+| Qui      | Est            |
+|----------|----------------|
 |Matthieu  |Émilie, Antoine |
 |Clément   |Marc            |
 |Louis     |Paul            |
